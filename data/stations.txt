@@ -1,0 +1,17 @@
+# StationID,StationName,Line
+1,Rajiv Chowk,Blue Line
+2,Barakhamba Road,Blue Line
+3,Mandi House,Blue Line
+4,Pragati Maidan,Blue Line
+5,Yamuna Bank,Blue Line
+6,Karol Bagh,Blue Line
+7,Kirti Nagar,Blue Line
+8,New Delhi,Yellow Line
+9,Chandni Chowk,Yellow Line
+10,Kashmere Gate,Yellow Line
+11,Central Secretariat,Yellow Line
+12,AIIMS,Yellow Line
+13,Hauz Khas,Yellow Line
+14,Janpath,Violet Line
+15,Lajpat Nagar,Violet Line
+16,Nehru Place,Violet Line
