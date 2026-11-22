@@ -92,4 +92,4 @@ g++ -std=c++17 src/main.cpp src/Graph.cpp -o metro_navigator
 
 ## Author
 
-- **Masihullah** — B.Tech Computer Science & Engineering (DSA End-Semester Project)
+- **Masihullah** — B.Tech Computer Science & Engineering
